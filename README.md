@@ -1,4 +1,12 @@
-### Hi there 👋
+## Thomas Marchand
+  
+
+### Welcome 👋  
+### I'm a student at Sorbonne Science University
+
+### [Github IO page](https://Thomas-Marchand.github.io)
+
+
 
 <!--
 **Thomas-Marchand/Thomas-Marchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
